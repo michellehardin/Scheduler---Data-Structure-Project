@@ -1,0 +1,2 @@
+# Scheduler---Data-Structure-Project
+For this assignment you must write a program that simulates preemptive task scheduling. “In  Preemptive Scheduling, the tasks are mostly assigned with their priorities. Sometimes it is important to  run a task with a higher priority before another lower priority task, even if the lower priority task is still  running. The lower priority task holds for some time and resumes when the higher priority task finishes  its execution” 
